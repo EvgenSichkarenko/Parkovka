@@ -52,4 +52,4 @@ class Application:
 		self.login.Email_aut.send_keys("sichkarenko966@gmail.com")
 		self.login.Password_input.send_keys("123Qwe123")
 		self.login.Login_conform_btn.click()
-		#assert "Неправильний логин або пароль" in self.login.email_text
+		#assert "Неправильний логин або пароль2" in self.login.email_text
